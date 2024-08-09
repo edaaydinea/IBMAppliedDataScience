@@ -1,30 +1,35 @@
 # IBM Applied Data Science Specialization
 
-- **Where:** Coursera
-- **University/Institute:** IBM
-- **Status:** In Progress
+* **Where:** Coursera
+* **University/Institute:** IBM
+* **Status:** In Progress
 
 ## Courses in this Specialization
 
-1. Python for Data Science, AI & Development
-   - **Status:** In Progress
-   - **Link:** <https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=applied-data-science-ibm>
+Python for Data Science, AI & Development
 
-2. Python Project for Data Science
-   - **Status:** Not Started
-   - **Link:** <https://www.coursera.org/learn/python-project-for-data-science?specialization=applied-data-science>
-  
-3. Data Analysis with Python
-   - **Status:** Not Started
-   - **Link:** <https://www.coursera.org/learn/data-analysis-with-python?specialization=applied-data-science>
+* **Status:** In Progress
+* **Link:** \<<https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=applied-data-science-ibm\>>
 
-4. Data Visualization with Python
-   - **Status:** Not Started
-   - **Link:** <https://www.coursera.org/learn/python-for-data-visualization?specialization=applied-data-science>
+Python Project for Data Science
 
-5. Applied Data Science Capstone
-   - **Status:** Not Started
-   - **Link:** <https://www.coursera.org/learn/applied-data-science-capstone?specialization=applied-data-science>
+* **Status:** Not Started
+* **Link:** \<<https://www.coursera.org/learn/python-project-for-data-science?specialization=applied-data-science\>>
+
+Data Analysis with Python
+
+* **Status:** Not Started
+* **Link:** \<<https://www.coursera.org/learn/data-analysis-with-python?specialization=applied-data-science\>>
+
+Data Visualization with Python
+
+* **Status:** Not Started
+* **Link:** \<<https://www.coursera.org/learn/python-for-data-visualization?specialization=applied-data-science\>>
+
+Applied Data Science Capstone
+
+* **Status:** Not Started
+* **Link:** \<<https://www.coursera.org/learn/applied-data-science-capstone?specialization=applied-data-science\>>
 
 ...
 
@@ -32,24 +37,40 @@
 
 ### Python for Data Science, AI & Development
 
-- **Week1:Python Basics**
-  - **Status:** Completed
-  - **Notebooks:** 
-    - [FirstProgram.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week1/FirstProgram.ipynb)
-    - [Strings.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week1/Strings.ipynb)
-    - [Types.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week1/Types.ipynb)
-    - [Expressions.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week1/Expressions.ipynb)
+**Week1:Python Basics**
 
-- **Week2:Python Data Structures**
-  - **Status:** Completed
-  - **Notebooks:** 
-    - [Tuples.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week2/PY0101EN-2-1-Tuples.ipynb)
-    - [Lists.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week2/PY0101EN-2-2-Lists.ipynb)
-    - [Sets.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week2/PY0101EN-2-3-Sets.ipynb)
-    - [Dictionaries.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week2/PY0101EN-2-4-Dictionaries.ipynb)
-...
+* **Notebooks:**
+  * [FirstProgram.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week1/FirstProgram.ipynb)
+  * [Strings.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week1/Strings.ipynb)
+  * [Types.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week1/Types.ipynb)
+  * [Expressions.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week1/Expressions.ipynb)
+
+**Week2:Python Data Structures**
+
+* **Notebooks:**
+  * [Tuples.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week2/PY0101EN-2-1-Tuples.ipynb)
+  * [Lists.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week2/PY0101EN-2-2-Lists.ipynb)
+  * [Sets.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week2/PY0101EN-2-3-Sets.ipynb)
+  * [Dictionaries.ipynb](https://github.com/edaaydinea/IBMAppliedDataScience/blob/main/L1/Week2/PY0101EN-2-4-Dictionaries.ipynb)
+
+**Week3: Python Programming Fundamentals**
+
+* **Notebooks:**
+  * [Conditions.ipynb](L1\Week3\PY0101EN-3-1-Conditions.ipynb)
+  * [Loops.ipynb](L1\Week3\PY0101EN-3-2-Loops.ipynb)
+  * [Functions.ipynb](L1\Week3\PY0101EN-3-3-Functions.ipynb)
+  * [Exceptions.ipynb](L1\Week3\3-1.2ExcecptionHandling.ipynb)
+  * [Objects and Classes.ipynb](L1\Week3\PY0101EN-3-4-Classes.ipynb)
+  * [Scenario: Text Analysis](L1\Week3\PY0101EN-3-5-Practice_lab-20230526-1685059200.jupyterlite.ipynb)
+
+**Week4: Working with Data in Python**
+
+**Week5: APIs and Data Collection**
 
 ## Certificates
 
-- **Python for Data Science, AI & Development**
-  - **Link:** <>
+* Course 1: Python for Data Science, AI & Development
+* Course 2: Python Project for Data Science
+* Course 3: Data Analysis with Python
+* Course 4: Data Visualization with Python
+* Course 5: Applied Data Science Capstone
