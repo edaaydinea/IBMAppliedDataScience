@@ -9,27 +9,27 @@
 Python for Data Science, AI & Development
 
 * **Status:** In Progress
-* **Link:** \<<https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=applied-data-science-ibm\>>
+* **Link:** /<<https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=applied-data-science-ibm/>>
 
 Python Project for Data Science
 
 * **Status:** Not Started
-* **Link:** \<<https://www.coursera.org/learn/python-project-for-data-science?specialization=applied-data-science\>>
+* **Link:** /<<https://www.coursera.org/learn/python-project-for-data-science?specialization=applied-data-science/>>
 
 Data Analysis with Python
 
 * **Status:** Not Started
-* **Link:** \<<https://www.coursera.org/learn/data-analysis-with-python?specialization=applied-data-science\>>
+* **Link:** /<<https://www.coursera.org/learn/data-analysis-with-python?specialization=applied-data-science/>>
 
 Data Visualization with Python
 
 * **Status:** Not Started
-* **Link:** \<<https://www.coursera.org/learn/python-for-data-visualization?specialization=applied-data-science\>>
+* **Link:** /<<https://www.coursera.org/learn/python-for-data-visualization?specialization=applied-data-science/>>
 
 Applied Data Science Capstone
 
 * **Status:** Not Started
-* **Link:** \<<https://www.coursera.org/learn/applied-data-science-capstone?specialization=applied-data-science\>>
+* **Link:** /<<https://www.coursera.org/learn/applied-data-science-capstone?specialization=applied-data-science/>>
 
 ...
 
@@ -56,14 +56,22 @@ Applied Data Science Capstone
 **Week3: Python Programming Fundamentals**
 
 * **Notebooks:**
-  * [Conditions.ipynb](L1\Week3\PY0101EN-3-1-Conditions.ipynb)
-  * [Loops.ipynb](L1\Week3\PY0101EN-3-2-Loops.ipynb)
-  * [Functions.ipynb](L1\Week3\PY0101EN-3-3-Functions.ipynb)
-  * [Exceptions.ipynb](L1\Week3\3-1.2ExcecptionHandling.ipynb)
-  * [Objects and Classes.ipynb](L1\Week3\PY0101EN-3-4-Classes.ipynb)
-  * [Scenario: Text Analysis](L1\Week3\PY0101EN-3-5-Practice_lab-20230526-1685059200.jupyterlite.ipynb)
+  * [Conditions.ipynb](L1/Week3/PY0101EN-3-1-Conditions.ipynbWeek3/PY0101EN-3-1-Conditions.ipynb)
+  * [Loops.ipynb](L1/Week3/PY0101EN-3-2-Loops.ipynb)
+  * [Functions.ipynb](L1/Week3/PY0101EN-3-3-Functions.ipynb)
+  * [Exceptions.ipynb](L1/Week3/3-1.2ExcecptionHandling.ipynb)
+  * [Objects and Classes.ipynb](L1/Week3/PY0101EN-3-4-Classes.ipynb)
+  * [Scenario: Text Analysis](L1/Week3/PY0101EN-3-5-Practice_lab-20230526-1685059200.jupyterlite.ipynb)
 
 **Week4: Working with Data in Python**
+
+* **Notebooks:**
+  * [Reading Files.ipynb](L1/Week4/PY0101EN-4-1-ReadFile.ipynb)
+  * [Writing Files.ipynb](L1/Week4/PY0101EN-4-2-WriteFile.ipynb)
+  * [Selecting Data in a DataFrame.ipynb](L1/Week4/Pandas_Practice.ipynb)
+  * [Loading Data with Pandas.ipynb](L1/Week4/PY0101EN-4-3-LoadData.ipynb)
+  * [One Dimensional Numpy.ipynb](L1/Week4/PY0101EN-5-1-Numpy1D.ipynb)
+  * [Two Dimensional Numpy.ipynb](L1/Week4/PY0101EN-5-2-Numpy2D.ipynb)
 
 **Week5: APIs and Data Collection**
 
